@@ -1,13 +1,13 @@
-//   ___          _       
-//   | _ ) ___ _ _| |_ ___ 
+//   ___          _
+//   | _ ) ___ _ _| |_ ___
 //   | _ \/ -_) ' \  _/ _ \
 //   |___/\___|_||_\__\___/
 //
 //   - Miguel R. Ávila
 
-// This file is only for development 
+// This file is only for development
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap");
 // Responsive
 $bp-largest: 75em;
 $bp-large: 68.75em;
@@ -52,7 +52,7 @@ $bp-smallest: 31.25em;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 13.5px;
 
   transition: 0.2s ease-in-out;
